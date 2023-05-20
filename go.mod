@@ -1,4 +1,4 @@
-module firebase-constant-generator
+module github.com/takabayap/firebase-constant-generator
 
 go 1.20
 
